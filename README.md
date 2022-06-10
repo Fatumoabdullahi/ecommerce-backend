@@ -10,4 +10,4 @@ GIVEN a functional Express.js API WHEN I add my database name, MySQL username, a
 
 ## Video
 
-Click <a href="">here </a> to watch the video.
+Click <a href="https://drive.google.com/file/d/1jT0JjVQd1uHlTVBcYLqoGOQ0MM6r_DbR/view?usp=sharing">here </a> to watch the video.
